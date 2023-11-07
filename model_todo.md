@@ -20,7 +20,6 @@ EVALUATION METRICS
 - Precison
 - Recall
 - F1
-- Precision-Recall Curve
 
 INTEPRET
 - Coefficient
@@ -34,3 +33,15 @@ FLOW
     - v2: correlation
     - v3: v1 + v2
     - v4: best prior version + SMOTE-N
+
+- model selection
+- cross validation + use cross val predict to get classification report of cross validation preds
+- select best model for optimization
+- optimize model
+    - param optimize
+    - data version + feature selection
+
+
+- poutcome sucess => high likelihood
+- campaign in mar/sep/oct/dec => high likelihood
+- emp rate low (pesmistic) => high likelihood
