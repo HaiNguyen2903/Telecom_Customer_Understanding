@@ -2,8 +2,10 @@
 
 A telecommunication business recently began a marketing campaign to encourage clients to sign up for their new subscription plan. The organization is looking for help in developing a complete understanding of its consumers and identifying the client group that are most responsive to marketing initiatives.
 
-The project consists of 2 phases: 
+The project consists of 2 main phases: 
+
 **1. Exploratory Data Analysis**: Gain a comprehensive understanding of the dataset, which includes statistical descriptive, univariate analyis, bivariate analysis and multivariate analysis.
+
 **2. Developing Machine Learning Models**: The project developed and bencmarked various models to classification whether a customer will subscribe to the marketing campagin or not. Based on predicted results, customers will then be segmented into different groups to gain deeper insights and optimization strategies.
 
 # Dataset
@@ -76,9 +78,10 @@ The company should pay more attention to those who already subscribed to the pre
 There are certain months when most of customers are intermediate or high-responsive, namely March, September, October and December. Business should increase the interaction during these months to increase the likelihood of getting a responsive customer.
 
 **Insights from Contact Duration**
+
 ![Alt text](figures/duration_insight.png)
 
-Intermediate and high respon- sive customers tend to have longer contact duration. As a result, business should keep the contact duration long enough (i.e. longer than 4 minutes) to increase customer responsive- ness likelihood.
+Intermediate and high responsive customers tend to have longer contact duration. As a result, business should keep the contact duration long enough (i.e. longer than 4 minutes) to increase customer responsiveness likelihood.
 
 **Insights from Employment Rate**
 
